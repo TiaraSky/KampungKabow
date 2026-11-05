@@ -1,0 +1,11 @@
+{
+    "name": "shasy/sidik_kampung",
+    "autoload": {
+        "psr-4": {
+            "Shasy\\SidikKampung\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.9"
+    }
+}
