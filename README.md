@@ -60,4 +60,13 @@ KampungKabow/
 5. Pastikan database yang dibutuhkan sudah tersedia.
 6. Buka aplikasi melalui browser menggunakan localhost.
 
-## Tujuan
+## Dokumentasi Project
+
+File pendukung project dapat dilihat pada repository ini.
+
+- **Source Code:** Berisi file aplikasi KampungKabow.
+- **Dokumentasi Excel:** Berisi data dan dokumentasi pendukung project.
+
+## File Pendukung
+
+File Excel dapat diakses melalui folder `documentation/` pada repository ini.
